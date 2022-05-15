@@ -1,3 +1,7 @@
-- Test
-- Test2
-- Test3
+# Game
+- Created Square Piece 2
+# Balancing
+- Nerfed Range On Everything
+# Misc
+- Bug Fixes
+- Testing
